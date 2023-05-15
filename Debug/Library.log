@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\DucDung\TROY_IT\OOP\Library\Library\main.cpp(178,20): warning C4018: '<': signed/unsigned mismatch
+  Library.vcxproj -> D:\DucDung\TROY_IT\OOP\Library\Library\Debug\Library.exe
